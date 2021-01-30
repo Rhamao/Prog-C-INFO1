@@ -1,0 +1,3 @@
+alon:x:635:201:Marie-PierreTalon:/home/compta/talon:/bin/bash
+alon:x:635:201:Jean-Michel:/home/compta/talon:/bin/bash
+alon:x:635:201:Mohamaed-Dupois:/home/compta/talon:/bin/bash
