@@ -5,7 +5,7 @@ ____
 
 Ce portfolio présente mon travail sur les TPs de C à l'occasion de mon premier semestre 1 en filière INFO à l'Esipe. Voici l'arborescence de ce répertoire :
 ```bash
-tp
+.
 ├── 1tp
 │   ├── 1tp_cr_progc.md
 │   ├── CR_TP1_C_Arnaud_Apelbaum_v2.odt
@@ -95,16 +95,35 @@ tp
 │           ├── stack.c
 │           ├── stack.h
 │           └── stack.o
-└── 5tp
-    └── 1_2_3_ex
-        ├── array.c
-        ├── array.h
-        ├── array.o
-        ├── main.c
-        ├── main.o
-        ├── Makefile
-        ├── run
-        ├── stack.c
-        ├── stack.h
-        └── stack.o
+├── 5tp
+│   └── 1_2_3_ex
+│       ├── array.c
+│       ├── array.h
+│       ├── array.o
+│       ├── main.c
+│       ├── main.o
+│       ├── Makefile
+│       ├── run
+│       ├── stack.c
+│       ├── stack.h
+│       └── stack.o
+├── 9tp
+│   ├── 1ex
+│   │   ├── ex1
+│   │   ├── int_array.c
+│   │   ├── int_array.h
+│   │   ├── int_array.o
+│   │   ├── main.c
+│   │   ├── main.o
+│   │   ├── Makefile
+│   │   └── run
+│   └── 2ex
+│       ├── char2d_array.c
+│       ├── char2d_array.h
+│       ├── char2d_array.o
+│       ├── main.c
+│       ├── main.o
+│       ├── Makefile
+│       └── run
+└── README.md
 ```
