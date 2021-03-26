@@ -3,8 +3,8 @@
 Etudiant : Arnaud Apelbaum, Professeur : Nicolas Borie
 ____
 
-Ce portfolio présente mon travail sur les TPs de C à l'occasion de mon premier semestre 1 en filière INFO à l'Esipe. Voici l'arborescence de ce répertoire : 
-``` bash
+Ce portfolio présente mon travail sur les TPs de C à l'occasion de mon premier semestre 1 en filière INFO à l'Esipe. Voici l'arborescence de ce répertoire :
+```bash
 tp
 ├── 1tp
 │   ├── 1tp_cr_progc.md
@@ -108,4 +108,3 @@ tp
         ├── stack.h
         └── stack.o
 ```
-

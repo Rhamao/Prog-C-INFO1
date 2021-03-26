@@ -33,7 +33,7 @@ int main(int argc, char *argv[])
 
   free(t1);
   free(t2);
-  
+
   printf("I can split them back :\n");
   split_arrays(t12, &t3, &t4);
   print_array(t3);
