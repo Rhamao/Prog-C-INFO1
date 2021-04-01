@@ -15,5 +15,7 @@ int main(int argc, char *argv[]){
 	for(i = 0; i<argc; i++)
 		printf("argv[%d] = %s\n", i, t[i]);
 
+	free_char2d_array(t, argc);
+
 	return EXIT_SUCCESS;
 }

@@ -23,7 +23,7 @@ char* create_new_line(char* str){
 	char* t;
 
 	t = (char*) malloc((strlen(str) + 1) * sizeof(char));
-	t = str;
+	strcpy(t, str);
 
 	return t;
 }
