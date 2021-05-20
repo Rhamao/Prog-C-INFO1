@@ -34,6 +34,9 @@ List ordered_insertion(List l, Cell* new, int order_func(Cell*, Cell*)){
         return new; 
     }
 
+    if(l->next == NULL){
+
+    }
     if(order_func(new, l) == 1 && order_func(new, l->next) <= 0){
         printf("l\n");
         List buff = l->next;
