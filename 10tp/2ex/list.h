@@ -14,5 +14,7 @@ int name_order(Cell* p1, Cell* p2);
 List ordered_insertion(List l, Cell* new, int order_func(Cell*, Cell*));
 void print_list(List l);
 void free_list(List l);
+List double_ordered_insertion(List l, Cell* new, int first(Cell*, Cell*), int second(Cell*, Cell*));
+/*List double_ordered_insertion(List l, Cell* new, int first_order_func(Cell*, Cell*), int second_order_func(Cell*, Cell*));*/
 
 #endif /*LIST_H*/
