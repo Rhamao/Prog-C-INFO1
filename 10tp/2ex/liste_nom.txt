@@ -1,10 +1,6 @@
 Emile Mercier 37
 Chloe Lavigne 90
 Appoline Delattre 35
-C C 1
-D D 1
-B B 1
-A A 1
 Gilles Barre 39
 Louis Chauvin 35
 Eugene Boyer 7
